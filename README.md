@@ -6,6 +6,10 @@
 	#for 4.x
 	csc.exe EfsPotato.cs -nowarn:1691,618
 	csc /platform:x86 EfsPotato.cs -nowarn:1691,618
+
+	Or this: 
+	C:\Windows\Microsoft.Net\Framework\v4.0.30319\csc.exe efs.cs -nowarn:1691,618
+ 
 	
 	#for 2.0/3.5
 	C:\Windows\Microsoft.Net\Framework\V3.5\csc.exe EfsPotato.cs -nowarn:1691,618
