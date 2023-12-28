@@ -1,4 +1,5 @@
 ## Exploit for EfsPotato(MS-EFSR EfsRpcEncryptFileSrv with SeImpersonatePrivilege local privalege escalation vulnerability).
+## Also used for SeChangeNotifyPrivilege (Bypass traverse Checking enabled)
 
 ### build
 
